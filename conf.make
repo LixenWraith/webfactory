@@ -1,0 +1,4 @@
+-o linux
+-a amd64
+-s src/cmd/webfactory/main.go
+-t bin/webfactory

@@ -1,0 +1,10 @@
+1 sample.card
+.header=Exploring Nature
+.content=Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+.content=Lorem ipsum dolor sit amet
+.content=Lorem ipsum dolor
+1.1 sample.link
+.URL=https://example.com/article
+.text=Read full article
+1.2 sample.button
+.label=Subscribe Now
